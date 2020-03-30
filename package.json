@@ -1,0 +1,19 @@
+{
+  "name": "chatrooms",
+  "version": "0.0.1",
+  "description": "minimalist muliroom chat server",
+  "dependencies": {
+    "mime": "^2.4.4",
+    "request": "file:node_modules/request",
+    "requests": "file:node_modules/requests",
+    "socket.io": "^2.3.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "main": "server.js",
+  "devDependencies": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
